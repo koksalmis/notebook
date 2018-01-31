@@ -4,7 +4,7 @@
 Action  | Shortcut
 ------- | -------
 Open a new window | **Ctrl + n**
-Open a new window and jump to it | **Ctrl + t**
+Open a new tab and jump to it | **Ctrl + t**
 Reopen the last closed tab, and jump to it | **Ctrl+ shift + t**
 Jump to the next open tab | **Ctrl + Tab or Ctrl + PgDn**
 Close the current tab | **Ctrl + w**
