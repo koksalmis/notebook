@@ -6,7 +6,7 @@ Action  | Shortcut
 Open a new window | **Ctrl + n**
 Open a new window and jump to it | **Ctrl + t**
 Reopen the last closed tab, and jump to it | **Ctrl+ shift + t**
-Jump to the next open tab | **Ctrl + Tab or Ctrl + PgDn **
+Jump to the next open tab | **Ctrl + Tab** or **Ctrl + PgDn **
 Close the current tab | **Ctrl + w**
 Open a new window and jump to it | **Ctrl + t**
 
@@ -36,7 +36,7 @@ Action  | Shortcut
 Reload the current page,ignoring cached content | **Shift + F5**
 Save your current webpage as a bookmark | **Ctrl + d**
 
-##Mouse shortcuts
+## Mouse shortcuts
 Action  | Shortcut
 ------- | -------
 Open a link in new background tab | **Ctrl + Click a link**
