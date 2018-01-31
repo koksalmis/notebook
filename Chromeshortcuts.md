@@ -1,5 +1,5 @@
 # Chrome shortcuts(Windows and Linux)
-(Here is the list of shortcuts that useful for me. I created to remember this list.)
+(Here is the list of shortcuts that most frequently need for me. I created to remember this list.)
 ## Tabs and window shortcuts
 Action  | Shortcut
 ------- | -------
